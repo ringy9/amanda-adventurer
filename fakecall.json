@@ -1,0 +1,49 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "0abf63126c88ec12",
+            "max_int": "a6988d850cc2a582",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Amanda Adventure",
+            "photo": "https://i.postimg.cc/TwQ9sSPh/wall10.webp",
+            "voice": "https://ringy9.github.io/amanda-adventurer/callamanda.wav",
+            "video": "https://ringy9.github.io/amanda-adventurer/videoamanda.m4v",
+            "stories": [
+                "https://i.postimg.cc/brN6NP5Q/wall1.webp",
+"https://i.postimg.cc/TwQ9sSPh/wall10.webp",
+"https://i.postimg.cc/NfnNYWkH/wall2.webp",
+"https://i.postimg.cc/7PmstCCX/wall3.webp",
+"https://i.postimg.cc/Dy0C92Lh/wall4.webp",
+"https://i.postimg.cc/fyLKQK3C/wall5.webp",
+"https://i.postimg.cc/52Fstnsk/wall6.webp",
+"https://i.postimg.cc/CKGJGdTG/wall7.webp",
+"https://i.postimg.cc/g0FNL85c/wall8.webp",
+"https://i.postimg.cc/wv920HgS/wall9.webp
+               
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/brN6NP5Q/wall1.webp",
+"https://i.postimg.cc/TwQ9sSPh/wall10.webp",
+"https://i.postimg.cc/NfnNYWkH/wall2.webp",
+"https://i.postimg.cc/7PmstCCX/wall3.webp",
+"https://i.postimg.cc/Dy0C92Lh/wall4.webp",
+"https://i.postimg.cc/fyLKQK3C/wall5.webp",
+"https://i.postimg.cc/52Fstnsk/wall6.webp",
+"https://i.postimg.cc/CKGJGdTG/wall7.webp",
+"https://i.postimg.cc/g0FNL85c/wall8.webp",
+"https://i.postimg.cc/wv920HgS/wall9.webp
+            ]
+          
+        }
+    ]
+}
